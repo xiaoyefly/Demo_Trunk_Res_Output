@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1603402550
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/panelui/loginpanel/loginpanel.assetbundle
+      Dependencies:
+        Dependency_0: ui/atlas/commonui.assetbundle
+        Dependency_1: ui/font.assetbundle
+    Info_1:
+      Name: ui/atlas/commonui.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: ui/font.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: ui/font_sdf.assetbundle
+      Dependencies:
+        Dependency_0: ui/font.assetbundle
+    Info_4:
+      Name: ui/font_sdfmat.assetbundle
+      Dependencies:
+        Dependency_0: ui/font_sdf.assetbundle

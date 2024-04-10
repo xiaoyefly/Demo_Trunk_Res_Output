@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3040727897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea634c687a03ef87ad9386bf2b3456e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Font/fzhjtSDF_UI_NoOutline.mat
+- Assets/Resources/Font/fzhjtSDF_UI_Default.mat
+- Assets/Resources/Font/fzhjtSDF_UI_Title.mat
+- Assets/Resources/Font/fzhjtSDF_UI_MainPanel.mat
+- Assets/Resources/Font/fzhjtSDF_UI_Notice.mat
+- Assets/Resources/Font/fzhjtSDF_UI_ChatPanel.mat
+Dependencies:
+- E:/xiaoye/trunk/client/output/res/standalone/ui/font_sdf.assetbundle

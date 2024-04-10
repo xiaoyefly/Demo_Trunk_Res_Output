@@ -1,0 +1,11 @@
+assetbundledb_ui.txt	1	161	1f59e4b51328cc5b21814abc76666198	1/assetbundledb_ui.txt	0
+assetbundledb_ui.txt.bak	1	161	1f59e4b51328cc5b21814abc76666198	1/assetbundledb_ui.txt.bak	0
+standalone	1	1753	3c12ff6f4596200f82beee2ab1f3ac02	1/standalone	0
+ui/extend.assetbundle	1	20421	ea844cfffa922e495c4b453e78f91fe6	1/ui/extend.assetbundle	0
+ui/font.assetbundle	1	11905457	92267a022a80c461cdb2086b5e3efacf	1/ui/font.assetbundle	0
+ui/font_sdf.assetbundle	1	8892611	a1cb94c3ad2658e8f8fa7de347c5937c	1/ui/font_sdf.assetbundle	0
+ui/font_sdfmat.assetbundle	1	2344	ade4e8e4c1b24e9a878c74e29b2567be	1/ui/font_sdfmat.assetbundle	0
+ui/panelui/loginpanel/loginpanel.assetbundle	1	11005	60376117c451e66514d91a6c0fb3cb2f	1/ui/panelui/loginpanel/loginpanel.assetbundle	0
+ui/redirect/redirect_-10.assetbundle	1	2084	e7601b4aea6def2b350a988d7bc667bf	1/ui/redirect/redirect_-10.assetbundle	0
+ui/redirect/redirect_33.assetbundle	1	27615	b49685f2689f0cce2af7ceeb9653cdbd	1/ui/redirect/redirect_33.assetbundle	0
+ui/redirect/redirect_-7.assetbundle	1	25952	34910872910b157890b43abe2d01ead6	1/ui/redirect/redirect_-7.assetbundle	0
