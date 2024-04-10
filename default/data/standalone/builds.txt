@@ -1,0 +1,27 @@
+ui/panelui/loginpanel/loginpanel.assetbundle
+	Assets/Resources/PanelUI/LoginPanel/LoginPanel.prefab
+ui/atlas/commonui.assetbundle
+	Assets/UI/Atlas/CommonUI.png
+	Assets/UI/AtlasResources/CommonUI/CommonUISpritesData.asset
+	Assets/UI/Atlas/CommonUI.mat
+	ui/atlas/commonui
+	Assets/UI/Atlas/CommonUIAtlas.prefab
+ui/font.assetbundle
+	Assets/Resources/Font/FontHolder.prefab
+	Assets/Resources/Font/fzhjt.ttf
+	Assets/Resources/Font/fzhjt_dynamic.ttf
+	Assets/Resources/Font/fzhjtAtlas.png
+ui/font_sdf.assetbundle
+	Assets/Resources/Font/fzhjtSDF.asset
+	Assets/Resources/Font/fzhjtSDFAtlas.png
+ui/font_sdfmat.assetbundle
+	Assets/Resources/Font/fzhjtSDF_UI_ChatPanel.mat
+	Assets/Resources/Font/fzhjtSDF_UI_Default.mat
+	Assets/Resources/Font/fzhjtSDF_UI_MainPanel.mat
+	Assets/Resources/Font/fzhjtSDF_UI_NoOutline.mat
+	Assets/Resources/Font/fzhjtSDF_UI_Notice.mat
+	Assets/Resources/Font/fzhjtSDF_UI_Title.mat
+ui/extend.assetbundle
+	Assets/UI/Atlas/Default.mat
+ui/ui_prepare_data.assetbundle
+	Assets/UI/ui_prepare_data.asset

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1796855093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 060c94f2f874b0fbc9bb7d4521e0c91b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b50d97429fb054c007713904fe81f86
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c19047ea983e4edc83a0ab4b34be8c39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40975f02bace48341b37a8b93e5817c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8580ff43f2ec6d6409c4d07c1aef3947, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Resources/PanelUI/LoginPanel/LoginPanel.prefab
+Dependencies:
+- E:/xiaoye/trunk/client/output/res/standalone/ui/atlas/commonui.assetbundle
+- E:/xiaoye/trunk/client/output/res/standalone/ui/font.assetbundle

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4061441262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 693db7f9f0146202c31083b421d705af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61dff35a2c152636e3fda1bf9a44e87c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f5c1f471bc8f1c4d8bdd1670009b430, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Font/fzhjt.ttf
+- Assets/Resources/Font/fzhjtAtlas.png
+- Assets/Resources/Font/FontHolder.prefab
+- Assets/Resources/Font/fzhjt_dynamic.ttf
+Dependencies: []

@@ -1,0 +1,5 @@
+ui/atlas/commonui.assetbundle	0
+ui/font.assetbundle	1
+ui/font_sdf.assetbundle	2
+ui/font_sdfmat.assetbundle	3
+ui/panelui/loginpanel/loginpanel.assetbundle	4
