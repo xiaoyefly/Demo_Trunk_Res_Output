@@ -1,11 +1,11 @@
 ui/panelui/loginpanel/loginpanel.assetbundle
 	Assets/Resources/PanelUI/LoginPanel/LoginPanel.prefab
 ui/atlas/commonui.assetbundle
-	Assets/UI/Atlas/CommonUI.png
+	Assets/UI/AtlasResources/CommonUI.png
 	Assets/UI/AtlasResources/CommonUI/CommonUISpritesData.asset
-	Assets/UI/Atlas/CommonUI.mat
+	Assets/UI/AtlasResources/CommonUI.mat
 	ui/atlas/commonui
-	Assets/UI/Atlas/CommonUIAtlas.prefab
+	Assets/UI/AtlasResources/CommonUIAtlas.prefab
 ui/font.assetbundle
 	Assets/Resources/Font/FontHolder.prefab
 	Assets/Resources/Font/fzhjt.ttf
@@ -22,6 +22,6 @@ ui/font_sdfmat.assetbundle
 	Assets/Resources/Font/fzhjtSDF_UI_Notice.mat
 	Assets/Resources/Font/fzhjtSDF_UI_Title.mat
 ui/extend.assetbundle
-	Assets/UI/Atlas/Default.mat
+	Assets/UI/AtlasResources/Default.mat
 ui/ui_prepare_data.assetbundle
 	Assets/UI/ui_prepare_data.asset

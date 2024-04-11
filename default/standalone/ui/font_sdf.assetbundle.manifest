@@ -3,7 +3,7 @@ CRC: 1335860278
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 93723416dba913c0d977b4db5af64338
+    Hash: ff0f63933dfabae0331652ac0b0e2bca
   TypeTreeHash:
     serializedVersion: 2
     Hash: 16e3ddb9d15165555fd5a9886cdab445
@@ -42,4 +42,4 @@ Assets:
 - Assets/Resources/Font/fzhjtSDF.asset
 - Assets/Resources/Font/fzhjtSDFAtlas.png
 Dependencies:
-- E:/xiaoye/trunk/client/output/res/standalone/ui/font.assetbundle
+- E:/xiaoye/JenkinsWorkSpace/Build_Test/client/output/default/standalone/ui/font.assetbundle

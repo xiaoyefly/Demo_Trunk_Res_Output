@@ -3,7 +3,7 @@ CRC: 3040727897
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea634c687a03ef87ad9386bf2b3456e5
+    Hash: 0545d8317a9a48a26be562a77e2d385a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -20,4 +20,4 @@ Assets:
 - Assets/Resources/Font/fzhjtSDF_UI_Notice.mat
 - Assets/Resources/Font/fzhjtSDF_UI_ChatPanel.mat
 Dependencies:
-- E:/xiaoye/trunk/client/output/res/standalone/ui/font_sdf.assetbundle
+- E:/xiaoye/JenkinsWorkSpace/Build_Test/client/output/default/standalone/ui/font_sdf.assetbundle

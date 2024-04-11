@@ -3,7 +3,7 @@ CRC: 1796855093
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 060c94f2f874b0fbc9bb7d4521e0c91b
+    Hash: 64b6a1efced590116099de9dee041829
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9b50d97429fb054c007713904fe81f86
@@ -47,5 +47,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Resources/PanelUI/LoginPanel/LoginPanel.prefab
 Dependencies:
-- E:/xiaoye/trunk/client/output/res/standalone/ui/atlas/commonui.assetbundle
-- E:/xiaoye/trunk/client/output/res/standalone/ui/font.assetbundle
+- E:/xiaoye/JenkinsWorkSpace/Build_Test/client/output/default/standalone/ui/atlas/commonui.assetbundle
+- E:/xiaoye/JenkinsWorkSpace/Build_Test/client/output/default/standalone/ui/font.assetbundle

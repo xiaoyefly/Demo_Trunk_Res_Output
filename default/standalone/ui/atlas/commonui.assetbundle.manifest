@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2225480288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3f52c50d4a0193928d0ef507c97f4ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ff5d2312d0b332489676b0dbbc1e6ec
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 40975f02bace48341b37a8b93e5817c4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UI/AtlasResources/CommonUI/CommonUISpritesData.asset
+Dependencies: []
